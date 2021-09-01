@@ -1,0 +1,1601 @@
+Credit,Gender,Education,Marital,Age,Default
+120000.0,Female,University,Never Married,26,Yes
+90000.0,Female,University,Never Married,34,No
+50000.0,Female,University,Married,37,No
+50000.0,Male,University,Married,57,No
+50000.0,Male,Graduate School,Never Married,37,No
+500000.0,Male,Graduate School,Never Married,29,No
+100000.0,Female,University,Never Married,23,No
+140000.0,Female,High School,Married,28,No
+200000.0,Female,High School,Never Married,34,No
+260000.0,Female,Graduate School,Never Married,51,No
+630000.0,Female,University,Never Married,41,No
+70000.0,Male,University,Never Married,30,Yes
+250000.0,Male,Graduate School,Never Married,29,No
+50000.0,Female,High School,Others,23,No
+20000.0,Male,Graduate School,Never Married,24,Yes
+320000.0,Male,Graduate School,Married,49,No
+130000.0,Female,High School,Never Married,39,No
+120000.0,Female,University,Married,39,Yes
+70000.0,Female,University,Never Married,26,Yes
+90000.0,Male,Graduate School,Never Married,23,No
+50000.0,Male,High School,Never Married,23,No
+60000.0,Male,Graduate School,Never Married,27,Yes
+50000.0,Female,High School,Never Married,30,No
+50000.0,Female,High School,Married,47,No
+50000.0,Male,Graduate School,Never Married,26,No
+230000.0,Female,Graduate School,Never Married,27,No
+50000.0,Male,University,Never Married,33,Yes
+100000.0,Male,Graduate School,Never Married,32,No
+280000.0,Male,University,Married,40,No
+60000.0,Female,University,Never Married,22,No
+280000.0,Male,Graduate School,Never Married,31,No
+360000.0,Male,Graduate School,Never Married,33,No
+70000.0,Female,Graduate School,Never Married,25,No
+10000.0,Male,University,Never Married,22,No
+140000.0,Female,University,Married,37,No
+40000.0,Female,Graduate School,Never Married,30,No
+20000.0,Female,Graduate School,Never Married,22,Yes
+380000.0,Male,University,Never Married,32,No
+20000.0,Male,Graduate School,Never Married,24,No
+70000.0,Male,High School,Never Married,42,Yes
+100000.0,Female,High School,Others,43,No
+180000.0,Female,Graduate School,Never Married,25,No
+50000.0,Female,Graduate School,Never Married,29,No
+180000.0,Female,High School,Married,34,No
+180000.0,Female,University,Married,34,No
+200000.0,Female,Graduate School,Never Married,34,No
+400000.0,Female,University,Married,29,No
+500000.0,Female,High School,Married,28,Yes
+70000.0,Male,University,Married,39,No
+50000.0,Male,Graduate School,Never Married,29,Yes
+200000.0,Male,Graduate School,Married,57,Yes
+10000.0,Male,University,Married,56,Yes
+210000.0,Female,Graduate School,Never Married,30,No
+130000.0,Female,High School,Never Married,29,No
+20000.0,Male,Others,Never Married,22,No
+80000.0,Male,Graduate School,Never Married,31,No
+320000.0,Male,University,Never Married,29,Yes
+200000.0,Female,University,Married,32,No
+290000.0,Female,Graduate School,Never Married,37,No
+340000.0,Male,Graduate School,Never Married,32,No
+20000.0,Male,University,Never Married,24,No
+50000.0,Male,High School,Never Married,25,No
+300000.0,Female,Graduate School,Married,45,No
+30000.0,Female,University,Never Married,22,Yes
+470000.0,Female,High School,Others,33,No
+360000.0,Female,Graduate School,Never Married,26,No
+60000.0,Male,High School,Never Married,30,Yes
+400000.0,Female,University,Married,44,No
+50000.0,Female,High School,Never Married,49,No
+160000.0,Male,University,Never Married,33,No
+360000.0,Female,Graduate School,Married,45,Yes
+50000.0,Female,University,Never Married,32,No
+130000.0,Female,Graduate School,Married,35,No
+20000.0,Male,High School,Never Married,44,No
+200000.0,Male,Graduate School,Married,53,Yes
+60000.0,Female,University,Never Married,23,No
+90000.0,Male,University,Never Married,35,No
+360000.0,Male,Graduate School,Married,43,No
+50000.0,Male,Graduate School,Never Married,27,No
+50000.0,Female,High School,Married,22,No
+20000.0,Male,University,Married,38,Yes
+380000.0,Female,Graduate School,Never Married,30,No
+480000.0,Male,Graduate School,Married,63,No
+50000.0,Female,High School,Never Married,22,Yes
+60000.0,Female,University,Never Married,26,No
+80000.0,Female,University,Married,36,No
+350000.0,Male,Graduate School,Never Married,52,No
+130000.0,Male,University,Never Married,38,No
+330000.0,Female,Graduate School,Married,31,No
+50000.0,Male,High School,Married,47,No
+280000.0,Male,University,Married,41,No
+100000.0,Female,Graduate School,Never Married,24,No
+50000.0,Male,University,Never Married,41,No
+30000.0,Male,Graduate School,Never Married,24,Yes
+240000.0,Male,Graduate School,Never Married,28,No
+80000.0,Male,University,Never Married,26,Yes
+400000.0,Male,University,Married,34,No
+240000.0,Female,University,Never Married,38,No
+50000.0,Male,High School,Never Married,37,Yes
+310000.0,Female,University,Married,35,Yes
+20000.0,Male,Graduate School,Never Married,27,No
+200000.0,Male,High School,Never Married,52,No
+50000.0,Male,Graduate School,Married,36,Yes
+50000.0,Male,University,Married,51,Yes
+60000.0,Male,High School,Married,55,No
+240000.0,Male,Graduate School,Never Married,41,No
+420000.0,Male,University,Married,34,No
+330000.0,Male,High School,Married,46,No
+30000.0,Female,University,Never Married,22,No
+240000.0,Male,University,Married,34,No
+150000.0,Male,Graduate School,Never Married,27,No
+210000.0,Female,University,Married,33,No
+50000.0,Male,Graduate School,Never Married,24,No
+180000.0,Male,University,Never Married,28,No
+50000.0,Male,University,Never Married,23,No
+20000.0,Male,Graduate School,Never Married,29,No
+50000.0,Male,Graduate School,Never Married,28,No
+170000.0,Female,University,Never Married,27,Yes
+200000.0,Male,Graduate School,Never Married,34,No
+80000.0,Female,University,Married,23,No
+260000.0,Female,Graduate School,Married,60,No
+50000.0,Male,University,Married,32,No
+80000.0,Male,Graduate School,Never Married,25,No
+280000.0,Female,University,Married,56,No
+30000.0,Female,High School,Never Married,26,No
+140000.0,Male,Graduate School,Married,34,No
+200000.0,Female,Graduate School,Never Married,37,No
+200000.0,Female,High School,Never Married,30,No
+210000.0,Male,High School,Married,45,Yes
+50000.0,Male,High School,Married,57,No
+30000.0,Male,Graduate School,Never Married,41,No
+50000.0,Male,University,Never Married,27,No
+290000.0,Male,High School,Married,47,No
+250000.0,Female,Graduate School,Married,34,No
+60000.0,Female,University,Married,46,No
+110000.0,Female,Graduate School,Never Married,27,No
+100000.0,Male,University,Married,27,No
+90000.0,Female,University,Married,35,No
+50000.0,Female,University,Never Married,22,No
+270000.0,Male,University,Never Married,37,No
+300000.0,Female,Graduate School,Never Married,30,No
+50000.0,Female,University,Never Married,22,No
+130000.0,Male,High School,Married,56,Yes
+80000.0,Male,Graduate School,Never Married,30,No
+50000.0,Male,University,Never Married,30,No
+20000.0,Female,University,Never Married,22,No
+80000.0,Female,University,Married,29,No
+240000.0,Male,Graduate School,Never Married,37,No
+80000.0,Female,High School,Never Married,35,No
+500000.0,Female,Graduate School,Married,47,No
+60000.0,Female,University,Married,24,Yes
+20000.0,Male,University,Never Married,25,No
+100000.0,Female,University,Married,38,Yes
+360000.0,Female,Graduate School,Never Married,32,No
+200000.0,Female,High School,Never Married,47,Yes
+130000.0,Female,University,Married,34,No
+20000.0,Female,University,Never Married,31,No
+310000.0,Male,Graduate School,Never Married,32,No
+60000.0,Female,Graduate School,Never Married,27,Yes
+50000.0,Male,University,Married,36,No
+50000.0,Female,Graduate School,Never Married,24,Yes
+20000.0,Female,Graduate School,Never Married,22,No
+500000.0,Female,Graduate School,Married,34,No
+30000.0,Female,High School,Never Married,22,Yes
+140000.0,Male,Graduate School,Never Married,31,No
+140000.0,Female,Graduate School,Never Married,26,No
+120000.0,Male,University,Never Married,26,No
+360000.0,Female,University,Married,48,No
+20000.0,Male,High School,Married,43,No
+100000.0,Male,Graduate School,Married,47,No
+210000.0,Female,University,Married,41,Yes
+80000.0,Female,University,Never Married,24,Yes
+220000.0,Male,Graduate School,Never Married,24,No
+210000.0,Female,Graduate School,Married,38,Yes
+40000.0,Female,High School,Married,43,No
+30000.0,Male,University,Never Married,39,No
+470000.0,Male,University,Never Married,27,No
+30000.0,Male,High School,Married,42,No
+80000.0,Male,University,Never Married,36,No
+110000.0,Female,High School,Others,31,No
+360000.0,Female,Graduate School,Married,40,Yes
+330000.0,Female,High School,Never Married,45,No
+300000.0,Female,University,Never Married,35,No
+320000.0,Female,University,Never Married,33,No
+50000.0,Female,High School,Never Married,37,Yes
+170000.0,Female,Graduate School,Never Married,28,No
+20000.0,Male,University,Married,37,No
+50000.0,Male,University,Never Married,23,Yes
+20000.0,Female,High School,Never Married,24,No
+50000.0,Female,Graduate School,Never Married,24,No
+20000.0,Male,University,Never Married,23,Yes
+50000.0,Male,University,Married,26,No
+190000.0,Male,University,Never Married,34,Yes
+60000.0,Female,University,Married,33,No
+80000.0,Male,Graduate School,Never Married,35,No
+150000.0,Female,University,Never Married,27,No
+240000.0,Female,High School,Married,50,Yes
+140000.0,Female,University,Others,41,Yes
+50000.0,Male,Graduate School,Never Married,39,No
+50000.0,Female,University,Never Married,27,No
+180000.0,Female,Graduate School,Never Married,32,No
+30000.0,Female,Graduate School,Never Married,40,No
+250000.0,Female,University,Married,75,No
+100000.0,Female,University,Never Married,27,No
+330000.0,Male,Graduate School,Never Married,25,No
+50000.0,Male,High School,Married,46,No
+50000.0,Female,University,Never Married,26,No
+30000.0,Male,University,Never Married,28,No
+140000.0,Female,University,Never Married,26,Yes
+160000.0,Female,Graduate School,Never Married,28,No
+400000.0,Female,University,Never Married,29,No
+50000.0,Male,University,Married,25,No
+140000.0,Female,University,Married,48,No
+160000.0,Female,University,Married,33,No
+220000.0,Male,Graduate School,Married,48,Yes
+510000.0,Female,Graduate School,Never Married,29,No
+50000.0,Male,University,Never Married,29,No
+160000.0,Female,Graduate School,Married,38,No
+80000.0,Female,Graduate School,Never Married,37,No
+50000.0,Female,University,Married,25,No
+10000.0,Male,High School,Never Married,23,No
+130000.0,Female,High School,Never Married,49,Yes
+40000.0,Female,Graduate School,Never Married,48,No
+50000.0,Male,University,Never Married,27,Yes
+100000.0,Male,High School,Never Married,32,No
+120000.0,Male,Graduate School,Married,34,No
+200000.0,Female,University,Never Married,33,No
+70000.0,Female,University,Never Married,36,No
+460000.0,Male,Graduate School,Married,40,Yes
+50000.0,Female,Graduate School,Never Married,26,No
+50000.0,Male,High School,Married,33,No
+250000.0,Female,University,Married,31,No
+270000.0,Male,University,Married,44,No
+180000.0,Female,High School,Never Married,30,No
+100000.0,Female,Graduate School,Never Married,28,No
+230000.0,Female,High School,Married,32,No
+210000.0,Female,Graduate School,Married,46,No
+210000.0,Male,Graduate School,Never Married,38,No
+440000.0,Female,University,Married,46,No
+100000.0,Female,University,Never Married,25,Yes
+240000.0,Female,University,Married,46,No
+280000.0,Male,Graduate School,Never Married,33,Yes
+30000.0,Male,University,Married,43,No
+10000.0,Male,University,Never Married,27,Yes
+200000.0,Male,Graduate School,Never Married,31,No
+120000.0,Female,University,Married,29,No
+210000.0,Female,University,Married,36,No
+280000.0,Female,Graduate School,Married,36,No
+300000.0,Male,Graduate School,Never Married,34,Yes
+100000.0,Male,University,Never Married,37,No
+50000.0,Female,High School,Married,40,No
+20000.0,Female,Graduate School,Never Married,25,Yes
+200000.0,Female,Graduate School,Never Married,27,No
+500000.0,Female,University,Married,36,No
+30000.0,Male,High School,Married,55,Yes
+60000.0,Female,Graduate School,Never Married,27,No
+400000.0,Female,University,Married,38,No
+180000.0,Female,University,Married,34,No
+20000.0,Male,Graduate School,Never Married,40,No
+200000.0,Female,High School,Married,49,Yes
+100000.0,Male,Graduate School,Never Married,27,No
+60000.0,Male,University,Never Married,23,Yes
+110000.0,Female,University,Never Married,36,No
+50000.0,Female,High School,Married,46,No
+110000.0,Male,University,Never Married,29,Yes
+340000.0,Female,Graduate School,Never Married,27,No
+50000.0,Male,University,Never Married,24,No
+360000.0,Female,University,Never Married,32,No
+210000.0,Male,University,Never Married,43,No
+220000.0,Female,University,Married,41,Yes
+60000.0,Female,University,Married,34,Yes
+150000.0,Male,Graduate School,Married,40,No
+200000.0,Female,University,Married,37,Yes
+130000.0,Female,University,Never Married,40,Yes
+60000.0,Female,Graduate School,Never Married,28,No
+20000.0,Male,Graduate School,Never Married,27,No
+190000.0,Female,Graduate School,Never Married,28,No
+260000.0,Female,Graduate School,Never Married,30,No
+50000.0,Female,University,Married,31,Yes
+120000.0,Female,Graduate School,Never Married,34,No
+50000.0,Male,University,Never Married,36,No
+200000.0,Female,Graduate School,Never Married,29,No
+180000.0,Male,Graduate School,Married,39,No
+180000.0,Female,Graduate School,Never Married,26,No
+160000.0,Female,Graduate School,Never Married,29,No
+100000.0,Female,University,Never Married,26,No
+50000.0,Female,University,Never Married,29,Yes
+140000.0,Female,University,Never Married,31,No
+30000.0,Female,University,Never Married,26,Yes
+90000.0,Male,Graduate School,Never Married,26,No
+80000.0,Female,University,Never Married,43,No
+50000.0,Male,High School,Married,58,No
+180000.0,Male,University,Married,45,Yes
+240000.0,Female,University,Never Married,26,No
+380000.0,Male,University,Never Married,34,No
+110000.0,Female,Others,Never Married,24,No
+260000.0,Male,Graduate School,Married,34,No
+500000.0,Female,University,Never Married,23,Yes
+320000.0,Female,University,Never Married,30,No
+50000.0,Male,University,Never Married,32,No
+110000.0,Male,Graduate School,Married,40,Yes
+50000.0,Female,University,Married,61,No
+10000.0,Male,University,Never Married,24,No
+20000.0,Female,University,Married,32,Yes
+160000.0,Male,Graduate School,Never Married,30,No
+90000.0,Female,Graduate School,Never Married,34,No
+30000.0,Male,High School,Others,54,No
+180000.0,Male,Graduate School,Married,46,No
+30000.0,Male,High School,Married,58,No
+30000.0,Male,University,Married,43,No
+140000.0,Female,Graduate School,Never Married,28,No
+210000.0,Male,Graduate School,Never Married,30,No
+50000.0,Male,University,Never Married,31,Yes
+130000.0,Female,University,Never Married,29,No
+50000.0,Female,University,Married,37,Yes
+140000.0,Male,High School,Married,36,No
+170000.0,Female,University,Never Married,28,Yes
+410000.0,Female,Others,Married,42,No
+80000.0,Male,High School,Married,73,Yes
+150000.0,Male,University,Married,43,No
+260000.0,Male,Graduate School,Married,30,Yes
+280000.0,Female,University,Married,39,Yes
+310000.0,Male,University,Married,44,No
+140000.0,Female,University,Never Married,29,No
+140000.0,Female,Graduate School,Never Married,27,No
+100000.0,Male,Graduate School,Never Married,38,No
+210000.0,Female,University,Married,30,No
+120000.0,Female,University,Never Married,25,No
+240000.0,Male,Graduate School,Never Married,29,No
+60000.0,Female,High School,Others,42,No
+50000.0,Male,Graduate School,Never Married,41,Yes
+30000.0,Male,University,Married,48,No
+160000.0,Female,Graduate School,Never Married,29,Yes
+500000.0,Male,Graduate School,Married,37,No
+320000.0,Female,Graduate School,Never Married,27,No
+280000.0,Male,Graduate School,Never Married,31,No
+60000.0,Female,Graduate School,Never Married,23,Yes
+230000.0,Female,Graduate School,Married,32,No
+230000.0,Female,University,Never Married,27,Yes
+50000.0,Female,Graduate School,Never Married,30,No
+50000.0,Male,University,Married,48,No
+30000.0,Male,Graduate School,Never Married,24,No
+440000.0,Female,Graduate School,Never Married,29,No
+230000.0,Female,University,Never Married,38,No
+200000.0,Male,University,Married,38,Yes
+490000.0,Female,University,Married,30,No
+20000.0,Female,High School,Never Married,49,Yes
+170000.0,Female,Graduate School,Never Married,31,Yes
+70000.0,Male,Graduate School,Never Married,27,No
+210000.0,Female,University,Never Married,33,No
+90000.0,Female,University,Never Married,25,No
+390000.0,Female,Graduate School,Never Married,27,Yes
+110000.0,Female,Graduate School,Never Married,29,No
+580000.0,Female,Graduate School,Married,36,No
+270000.0,Female,University,Married,32,Yes
+60000.0,Female,Graduate School,Never Married,27,No
+110000.0,Male,High School,Married,37,No
+50000.0,Female,Graduate School,Married,25,No
+80000.0,Female,Graduate School,Never Married,23,Yes
+50000.0,Male,University,Never Married,23,No
+100000.0,Male,Graduate School,Never Married,32,No
+30000.0,Female,Graduate School,Never Married,26,No
+200000.0,Female,Graduate School,Never Married,27,No
+240000.0,Male,Graduate School,Never Married,44,Yes
+220000.0,Male,University,Never Married,34,No
+50000.0,Female,Graduate School,Never Married,28,No
+180000.0,Female,Graduate School,Married,53,No
+200000.0,Male,Others,Married,42,No
+140000.0,Female,High School,Married,30,No
+600000.0,Male,Graduate School,Married,53,Yes
+260000.0,Male,University,Never Married,37,No
+80000.0,Male,University,Never Married,42,No
+40000.0,Male,University,Never Married,39,No
+130000.0,Male,High School,Never Married,39,No
+230000.0,Female,University,Married,41,No
+70000.0,Male,University,Married,48,Yes
+180000.0,Female,University,Married,38,No
+80000.0,Female,University,Married,36,No
+290000.0,Female,University,Never Married,26,No
+230000.0,Female,Graduate School,Never Married,28,No
+230000.0,Male,Graduate School,Married,59,Yes
+220000.0,Male,Graduate School,Never Married,38,Yes
+230000.0,Male,University,Never Married,32,No
+500000.0,Male,University,Married,38,No
+90000.0,Female,Graduate School,Married,41,No
+390000.0,Female,High School,Never Married,35,Yes
+400000.0,Female,University,Never Married,41,No
+180000.0,Male,University,Married,34,No
+60000.0,Male,High School,Married,38,No
+120000.0,Female,University,Married,32,No
+60000.0,Female,University,Never Married,29,No
+50000.0,Male,Graduate School,Never Married,44,No
+70000.0,Female,University,Married,37,No
+500000.0,Female,Graduate School,Married,38,No
+250000.0,Female,University,Married,40,No
+140000.0,Male,University,Never Married,26,Yes
+70000.0,Female,University,Never Married,28,No
+90000.0,Male,High School,Married,48,No
+100000.0,Female,University,Married,43,No
+190000.0,Male,University,Married,31,No
+230000.0,Female,Graduate School,Married,42,No
+320000.0,Male,University,Married,39,No
+220000.0,Female,University,Married,36,Yes
+260000.0,Female,Graduate School,Married,34,No
+30000.0,Female,University,Married,43,No
+260000.0,Male,University,Never Married,30,No
+80000.0,Female,Graduate School,Married,28,Yes
+50000.0,Male,Graduate School,Married,41,No
+200000.0,Female,High School,Never Married,47,No
+20000.0,Male,University,Never Married,23,No
+250000.0,Female,Graduate School,Married,49,No
+20000.0,Male,Graduate School,Married,38,No
+30000.0,Female,University,Married,38,No
+90000.0,Female,University,Married,35,No
+230000.0,Female,Others,Never Married,46,No
+130000.0,Female,Graduate School,Married,33,Yes
+160000.0,Male,Graduate School,Never Married,35,No
+500000.0,Female,University,Never Married,43,No
+180000.0,Female,University,Never Married,28,No
+80000.0,Female,University,Married,30,No
+130000.0,Male,University,Married,31,No
+120000.0,Female,University,Never Married,35,Yes
+360000.0,Male,Graduate School,Never Married,28,No
+50000.0,Male,University,Never Married,23,Yes
+20000.0,Female,University,Never Married,23,No
+100000.0,Male,High School,Married,56,No
+70000.0,Male,High School,Married,32,No
+50000.0,Male,University,Married,47,No
+10000.0,Female,University,Never Married,22,No
+290000.0,Female,Graduate School,Married,34,No
+30000.0,Female,Graduate School,Married,31,No
+410000.0,Female,University,Never Married,27,No
+360000.0,Male,Graduate School,Never Married,28,Yes
+140000.0,Female,University,Married,42,Yes
+210000.0,Female,Graduate School,Never Married,32,No
+220000.0,Female,University,Never Married,27,No
+20000.0,Male,University,Never Married,27,No
+620000.0,Female,University,Married,45,Yes
+20000.0,Female,University,Never Married,21,No
+50000.0,Male,University,Never Married,23,No
+50000.0,Male,University,Others,30,No
+10000.0,Male,University,Never Married,46,Yes
+100000.0,Female,High School,Married,50,Yes
+60000.0,Male,University,Never Married,25,No
+440000.0,Female,Graduate School,Never Married,35,No
+120000.0,Male,University,Married,44,No
+110000.0,Female,University,Married,40,No
+30000.0,Female,University,Married,36,Yes
+100000.0,Female,Graduate School,Never Married,24,No
+360000.0,Female,Graduate School,Married,34,No
+390000.0,Female,Graduate School,Never Married,31,No
+230000.0,Female,Graduate School,Never Married,28,No
+120000.0,Male,Graduate School,Never Married,27,No
+100000.0,Male,High School,Married,52,Yes
+190000.0,Female,Graduate School,Never Married,41,Yes
+50000.0,Male,Graduate School,Married,56,Yes
+110000.0,Female,University,Never Married,32,No
+210000.0,Female,High School,Married,53,No
+270000.0,Male,Graduate School,Never Married,34,No
+60000.0,Female,University,Married,42,No
+360000.0,Male,University,Never Married,38,No
+390000.0,Female,Graduate School,Never Married,45,No
+90000.0,Female,Graduate School,Never Married,24,Yes
+360000.0,Male,Graduate School,Never Married,28,No
+50000.0,Male,High School,Never Married,26,No
+200000.0,Female,Graduate School,Never Married,29,No
+50000.0,Female,University,Never Married,23,No
+160000.0,Female,University,Never Married,60,Yes
+80000.0,Female,High School,Married,49,No
+290000.0,Male,Graduate School,Married,53,Yes
+270000.0,Female,Graduate School,Never Married,28,No
+80000.0,Male,Graduate School,Never Married,31,No
+50000.0,Male,University,Never Married,36,No
+90000.0,Male,University,Never Married,33,No
+160000.0,Male,Graduate School,Never Married,26,No
+80000.0,Female,High School,Never Married,53,No
+50000.0,Male,University,Never Married,42,No
+20000.0,Female,Graduate School,Never Married,25,No
+210000.0,Male,High School,Never Married,25,Yes
+130000.0,Female,University,Never Married,29,No
+260000.0,Female,University,Married,31,No
+230000.0,Female,Graduate School,Married,30,No
+160000.0,Male,Graduate School,Never Married,34,No
+50000.0,Male,Graduate School,Married,35,No
+80000.0,Male,University,Married,32,No
+110000.0,Male,High School,Never Married,46,No
+200000.0,Male,Graduate School,Married,43,No
+360000.0,Male,University,Never Married,29,No
+80000.0,Female,University,Never Married,24,No
+300000.0,Female,University,Married,36,Yes
+310000.0,Female,University,Married,43,No
+30000.0,Male,High School,Married,59,Yes
+170000.0,Male,Graduate School,Married,53,No
+50000.0,Female,University,Never Married,28,No
+50000.0,Male,Graduate School,Never Married,34,No
+110000.0,Female,Graduate School,Never Married,24,No
+200000.0,Female,University,Married,34,No
+220000.0,Male,Graduate School,Never Married,43,No
+50000.0,Male,University,Married,37,No
+40000.0,Male,University,Never Married,23,No
+190000.0,Female,University,Married,37,No
+150000.0,Male,Graduate School,Never Married,33,No
+270000.0,Female,University,Married,56,No
+60000.0,Male,Graduate School,Never Married,25,No
+200000.0,Female,University,Married,39,No
+150000.0,Female,University,Married,39,No
+180000.0,Female,University,Never Married,28,No
+20000.0,Female,University,Never Married,24,No
+70000.0,Male,Graduate School,Married,46,No
+230000.0,Male,Graduate School,Married,39,No
+30000.0,Male,High School,Married,48,No
+200000.0,Female,High School,Others,45,No
+50000.0,Female,University,Never Married,23,No
+110000.0,Male,High School,Married,56,No
+50000.0,Female,High School,Married,49,No
+50000.0,Male,University,Married,41,No
+400000.0,Female,Graduate School,Never Married,40,No
+170000.0,Male,University,Never Married,31,No
+280000.0,Male,University,Married,42,No
+210000.0,Female,University,Never Married,32,No
+370000.0,Male,University,Never Married,28,No
+30000.0,Female,University,Married,31,No
+80000.0,Female,University,Never Married,24,No
+280000.0,Female,University,Married,44,Yes
+20000.0,Female,University,Never Married,46,No
+240000.0,Female,University,Never Married,26,No
+20000.0,Female,Graduate School,Never Married,22,No
+10000.0,Male,University,Never Married,33,No
+290000.0,Female,High School,Never Married,27,No
+190000.0,Female,Graduate School,Never Married,28,Yes
+80000.0,Female,Graduate School,Never Married,23,No
+280000.0,Female,University,Never Married,28,No
+90000.0,Male,University,Married,40,Yes
+50000.0,Male,Graduate School,Never Married,22,No
+40000.0,Female,University,Married,32,No
+130000.0,Female,High School,Married,43,No
+70000.0,Female,High School,Married,27,No
+30000.0,Female,University,Married,35,No
+100000.0,Female,High School,Married,35,No
+20000.0,Female,Graduate School,Married,30,Yes
+30000.0,Female,University,Never Married,34,No
+20000.0,Male,University,Married,34,Yes
+100000.0,Female,Graduate School,Never Married,28,Yes
+30000.0,Male,University,Never Married,25,Yes
+320000.0,Female,Graduate School,Married,41,No
+90000.0,Male,High School,Never Married,42,Yes
+190000.0,Male,University,Never Married,40,Yes
+200000.0,Male,Graduate School,Never Married,28,No
+300000.0,Female,University,Never Married,31,No
+110000.0,Female,University,Others,45,No
+310000.0,Female,University,Never Married,28,No
+320000.0,Male,Graduate School,Married,40,No
+360000.0,Male,Graduate School,Married,47,No
+20000.0,Female,High School,Married,41,Yes
+170000.0,Female,University,Never Married,27,No
+140000.0,Male,Graduate School,Married,40,No
+80000.0,Male,University,Never Married,32,No
+50000.0,Male,University,Never Married,35,No
+200000.0,Female,University,Married,29,Yes
+70000.0,Male,Graduate School,Never Married,30,No
+50000.0,Female,Graduate School,Married,34,No
+300000.0,Female,Graduate School,Never Married,31,No
+200000.0,Female,Graduate School,Married,27,No
+50000.0,Female,University,Others,30,Yes
+30000.0,Female,University,Others,22,No
+50000.0,Male,Graduate School,Never Married,26,Yes
+50000.0,Male,University,Married,38,No
+30000.0,Female,High School,Married,46,No
+20000.0,Male,University,Never Married,24,No
+20000.0,Male,University,Never Married,49,No
+50000.0,Male,Graduate School,Others,49,No
+30000.0,Female,University,Married,42,No
+360000.0,Female,Graduate School,Married,30,No
+50000.0,Female,University,Married,49,No
+160000.0,Female,University,Never Married,27,No
+70000.0,Female,University,Married,33,Yes
+80000.0,Female,University,Never Married,48,No
+30000.0,Female,University,Never Married,22,No
+10000.0,Male,University,Never Married,22,Yes
+180000.0,Female,Graduate School,Never Married,27,No
+320000.0,Male,Graduate School,Married,47,No
+80000.0,Female,University,Never Married,34,No
+10000.0,Male,University,Married,45,Yes
+360000.0,Female,University,Never Married,39,No
+330000.0,Female,University,Never Married,29,No
+60000.0,Male,Graduate School,Never Married,29,Yes
+50000.0,Female,High School,Never Married,26,No
+200000.0,Male,University,Married,38,No
+160000.0,Female,Graduate School,Married,37,No
+110000.0,Male,University,Married,57,No
+70000.0,Female,High School,Married,50,No
+150000.0,Female,High School,Never Married,28,No
+610000.0,Female,Graduate School,Never Married,31,No
+110000.0,Female,Graduate School,Never Married,25,No
+80000.0,Female,University,Never Married,25,Yes
+170000.0,Female,University,Married,33,No
+140000.0,Female,Graduate School,Married,51,No
+70000.0,Male,Graduate School,Never Married,51,No
+170000.0,Male,High School,Never Married,38,No
+50000.0,Female,University,Married,34,No
+300000.0,Female,High School,Married,34,Yes
+150000.0,Female,Graduate School,Never Married,31,Yes
+50000.0,Female,University,Never Married,25,Yes
+50000.0,Female,University,Married,26,No
+90000.0,Female,Graduate School,Never Married,25,No
+50000.0,Male,University,Never Married,26,Yes
+500000.0,Female,University,Never Married,43,No
+470000.0,Female,University,Married,36,No
+230000.0,Male,University,Never Married,58,No
+140000.0,Female,University,Never Married,26,No
+230000.0,Female,University,Married,30,Yes
+420000.0,Female,University,Never Married,31,No
+30000.0,Female,University,Never Married,24,No
+50000.0,Female,University,Never Married,52,Yes
+260000.0,Female,University,Married,35,No
+240000.0,Female,University,Married,33,No
+510000.0,Female,Graduate School,Never Married,35,No
+110000.0,Female,University,Married,35,No
+210000.0,Female,Graduate School,Never Married,28,No
+360000.0,Female,University,Never Married,53,No
+260000.0,Male,Graduate School,Never Married,44,No
+20000.0,Male,University,Married,33,No
+120000.0,Female,University,Married,32,No
+60000.0,Female,Graduate School,Never Married,26,No
+50000.0,Female,Graduate School,Married,32,Yes
+50000.0,Female,University,Never Married,31,No
+230000.0,Male,Graduate School,Never Married,29,No
+50000.0,Male,University,Married,27,No
+100000.0,Female,Graduate School,Never Married,28,Yes
+230000.0,Female,University,Married,32,Yes
+370000.0,Female,Graduate School,Never Married,38,No
+230000.0,Female,Graduate School,Married,35,No
+80000.0,Male,University,Never Married,29,No
+30000.0,Female,University,Never Married,51,No
+50000.0,Female,Graduate School,Married,34,No
+100000.0,Female,University,Married,30,No
+100000.0,Female,Graduate School,Never Married,48,No
+210000.0,Female,University,Married,35,No
+20000.0,Male,University,Never Married,25,Yes
+50000.0,Female,High School,Married,44,No
+80000.0,Female,University,Never Married,23,No
+20000.0,Female,High School,Never Married,36,Yes
+190000.0,Female,Graduate School,Never Married,26,No
+160000.0,Female,University,Others,37,No
+120000.0,Female,Graduate School,Others,44,No
+300000.0,Female,High School,Married,29,No
+120000.0,Male,High School,Married,33,Yes
+280000.0,Female,University,Married,39,No
+70000.0,Male,High School,Married,51,Yes
+20000.0,Female,High School,Never Married,24,No
+150000.0,Female,University,Married,45,No
+60000.0,Male,Graduate School,Never Married,30,No
+200000.0,Female,High School,Others,51,No
+50000.0,Female,University,Never Married,24,Yes
+150000.0,Male,University,Married,50,No
+20000.0,Female,Graduate School,Never Married,22,No
+40000.0,Male,Graduate School,Never Married,27,Yes
+50000.0,Female,University,Married,24,No
+10000.0,Male,University,Never Married,37,No
+50000.0,Female,University,Married,48,No
+320000.0,Male,Graduate School,Never Married,28,No
+20000.0,Female,High School,Married,24,No
+470000.0,Female,University,Married,27,Yes
+230000.0,Female,High School,Never Married,30,No
+30000.0,Female,High School,Never Married,53,Yes
+80000.0,Female,University,Never Married,23,No
+110000.0,Female,University,Married,55,No
+420000.0,Male,University,Married,34,No
+80000.0,Female,University,Never Married,22,No
+350000.0,Female,University,Married,31,No
+500000.0,Male,High School,Married,39,No
+490000.0,Female,Graduate School,Married,38,No
+50000.0,Male,University,Others,42,Yes
+50000.0,Male,High School,Married,37,Yes
+80000.0,Female,High School,Married,57,No
+40000.0,Female,University,Never Married,23,No
+30000.0,Male,University,Never Married,32,No
+140000.0,Female,University,Never Married,23,No
+50000.0,Female,High School,Never Married,49,No
+40000.0,Female,Graduate School,Never Married,29,Yes
+100000.0,Female,High School,Married,43,Yes
+130000.0,Male,University,Never Married,29,No
+20000.0,Female,University,Never Married,27,No
+260000.0,Male,Graduate School,Married,41,No
+30000.0,Female,High School,Never Married,52,Yes
+10000.0,Female,University,Married,31,No
+200000.0,Male,Graduate School,Never Married,32,No
+30000.0,Female,University,Married,46,No
+140000.0,Female,University,Married,39,No
+290000.0,Female,University,Never Married,34,No
+20000.0,Female,University,Others,52,No
+80000.0,Female,High School,Married,40,No
+180000.0,Male,Graduate School,Married,45,No
+20000.0,Female,High School,Married,40,No
+30000.0,Female,University,Married,25,No
+50000.0,Male,Graduate School,Never Married,33,No
+280000.0,Female,University,Never Married,27,No
+50000.0,Female,University,Married,43,No
+20000.0,Female,University,Married,43,No
+200000.0,Male,Graduate School,Never Married,30,No
+230000.0,Female,Graduate School,Never Married,38,No
+50000.0,Male,High School,Never Married,57,No
+50000.0,Male,High School,Never Married,55,Yes
+70000.0,Female,University,Never Married,23,No
+180000.0,Female,University,Married,30,No
+90000.0,Female,University,Never Married,24,No
+390000.0,Male,University,Never Married,28,No
+150000.0,Female,High School,Married,34,No
+400000.0,Male,University,Never Married,37,No
+320000.0,Male,Graduate School,Never Married,27,No
+110000.0,Male,Graduate School,Others,55,Yes
+170000.0,Female,Graduate School,Never Married,28,Yes
+90000.0,Female,High School,Others,51,Yes
+200000.0,Male,Graduate School,Married,36,No
+140000.0,Female,Graduate School,Married,36,No
+220000.0,Male,University,Never Married,25,No
+80000.0,Female,University,Never Married,40,No
+30000.0,Female,University,Never Married,27,No
+50000.0,Male,Graduate School,Never Married,30,Yes
+120000.0,Female,University,Never Married,26,No
+50000.0,Male,Graduate School,Never Married,27,No
+360000.0,Female,Graduate School,Never Married,27,No
+90000.0,Female,Graduate School,Never Married,25,No
+500000.0,Male,Graduate School,Never Married,32,No
+140000.0,Female,High School,Married,46,No
+30000.0,Male,High School,Married,45,No
+70000.0,Male,High School,Married,30,No
+350000.0,Male,Graduate School,Married,48,No
+240000.0,Male,Graduate School,Never Married,46,No
+90000.0,Female,Graduate School,Never Married,23,No
+50000.0,Female,Graduate School,Never Married,24,No
+110000.0,Male,Graduate School,Married,40,No
+20000.0,Female,Graduate School,Never Married,24,No
+30000.0,Female,University,Never Married,24,No
+20000.0,Male,University,Married,46,No
+50000.0,Female,University,Never Married,22,No
+260000.0,Female,University,Never Married,24,No
+320000.0,Male,Graduate School,Married,60,Yes
+160000.0,Female,University,Never Married,29,Yes
+30000.0,Male,University,Never Married,32,Yes
+50000.0,Female,University,Married,36,No
+90000.0,Female,University,Never Married,29,No
+240000.0,Male,Graduate School,Never Married,34,No
+180000.0,Female,University,Married,32,Yes
+200000.0,Female,University,Married,32,No
+50000.0,Female,Graduate School,Never Married,25,No
+50000.0,Male,University,Married,44,No
+330000.0,Female,Graduate School,Married,37,No
+80000.0,Female,University,Never Married,24,Yes
+360000.0,Female,Graduate School,Never Married,29,No
+240000.0,Female,University,Married,37,No
+50000.0,Male,University,Married,59,No
+470000.0,Male,University,Never Married,33,No
+160000.0,Female,High School,Married,51,No
+80000.0,Female,University,Married,32,No
+500000.0,Female,High School,Never Married,42,No
+180000.0,Male,University,Never Married,39,No
+110000.0,Female,University,Married,46,No
+160000.0,Male,Graduate School,Married,41,No
+210000.0,Female,University,Never Married,30,No
+200000.0,Female,Graduate School,Married,34,Yes
+350000.0,Male,Graduate School,Never Married,35,No
+250000.0,Male,Graduate School,Never Married,41,Yes
+30000.0,Male,University,Never Married,47,No
+200000.0,Male,University,Never Married,31,No
+30000.0,Male,University,Never Married,30,No
+50000.0,Male,University,Never Married,24,No
+500000.0,Male,Graduate School,Married,36,No
+220000.0,Female,Graduate School,Married,36,No
+20000.0,Female,University,Married,27,No
+180000.0,Female,University,Married,32,No
+300000.0,Male,Graduate School,Married,42,Yes
+130000.0,Female,University,Married,33,No
+180000.0,Female,High School,Married,39,Yes
+140000.0,Male,University,Married,30,Yes
+50000.0,Female,University,Never Married,22,No
+20000.0,Male,University,Never Married,25,Yes
+180000.0,Male,Graduate School,Never Married,28,No
+180000.0,Male,University,Never Married,26,Yes
+150000.0,Female,High School,Married,54,No
+70000.0,Female,Graduate School,Never Married,24,No
+30000.0,Male,University,Never Married,29,No
+60000.0,Male,High School,Married,49,No
+260000.0,Female,University,Married,33,No
+360000.0,Female,University,Never Married,25,No
+50000.0,Male,High School,Married,54,No
+50000.0,Female,High School,Married,39,No
+80000.0,Female,University,Never Married,27,No
+140000.0,Male,Graduate School,Married,45,No
+50000.0,Female,University,Never Married,23,Yes
+120000.0,Male,University,Never Married,25,No
+100000.0,Male,University,Married,29,No
+200000.0,Female,University,Married,28,No
+90000.0,Female,University,Married,40,No
+140000.0,Male,Graduate School,Never Married,29,No
+170000.0,Female,University,Married,37,No
+30000.0,Male,University,Never Married,34,No
+280000.0,Male,Graduate School,Never Married,31,No
+450000.0,Male,Graduate School,Never Married,38,No
+80000.0,Male,University,Never Married,36,No
+130000.0,Female,Graduate School,Married,36,No
+160000.0,Female,Graduate School,Never Married,26,Yes
+140000.0,Female,High School,Never Married,57,Yes
+240000.0,Female,High School,Married,40,No
+70000.0,Male,Graduate School,Others,57,No
+150000.0,Female,University,Never Married,25,No
+200000.0,Female,Graduate School,Married,35,No
+180000.0,Male,Graduate School,Married,38,No
+300000.0,Male,University,Never Married,31,No
+450000.0,Female,Graduate School,Never Married,41,No
+200000.0,Male,Graduate School,Never Married,33,No
+30000.0,Female,University,Married,67,Yes
+400000.0,Female,Graduate School,Married,40,No
+170000.0,Male,Graduate School,Never Married,33,No
+140000.0,Female,Graduate School,Never Married,31,Yes
+200000.0,Female,University,Never Married,35,No
+60000.0,Male,University,Never Married,27,Yes
+50000.0,Male,Graduate School,Never Married,23,No
+180000.0,Male,High School,Married,54,Yes
+50000.0,Female,High School,Never Married,23,No
+50000.0,Male,High School,Never Married,24,No
+230000.0,Female,University,Never Married,52,Yes
+110000.0,Female,University,Married,42,No
+90000.0,Female,Graduate School,Never Married,36,No
+20000.0,Female,Graduate School,Never Married,22,Yes
+30000.0,Female,Graduate School,Never Married,23,No
+220000.0,Male,High School,Married,30,Yes
+140000.0,Female,High School,Never Married,24,Yes
+100000.0,Male,University,Married,49,No
+110000.0,Male,University,Never Married,31,No
+270000.0,Female,High School,Never Married,33,No
+30000.0,Male,Graduate School,Married,42,No
+70000.0,Male,High School,Never Married,41,No
+20000.0,Male,University,Never Married,23,No
+50000.0,Female,Graduate School,Never Married,33,No
+20000.0,Female,University,Married,29,No
+80000.0,Female,High School,Married,67,No
+60000.0,Female,High School,Married,34,Yes
+50000.0,Male,University,Married,49,No
+280000.0,Female,University,Married,56,Yes
+300000.0,Male,Graduate School,Married,42,No
+30000.0,Female,High School,Married,55,Yes
+270000.0,Female,University,Married,25,No
+100000.0,Male,High School,Never Married,30,No
+240000.0,Male,University,Never Married,43,Yes
+200000.0,Male,Graduate School,Never Married,40,No
+110000.0,Female,Graduate School,Never Married,35,No
+230000.0,Male,Graduate School,Married,61,No
+150000.0,Female,University,Married,44,Yes
+350000.0,Male,Graduate School,Never Married,33,No
+360000.0,Male,Others,Married,66,No
+100000.0,Male,High School,Never Married,47,No
+500000.0,Male,Graduate School,Never Married,27,No
+500000.0,Male,Graduate School,Never Married,35,No
+180000.0,Female,High School,Married,47,No
+100000.0,Female,University,Never Married,29,No
+10000.0,Male,University,Married,32,No
+60000.0,Female,Graduate School,Never Married,30,No
+50000.0,Female,Graduate School,Never Married,25,Yes
+80000.0,Female,University,Never Married,23,No
+110000.0,Female,University,Married,43,No
+410000.0,Female,University,Married,41,Yes
+30000.0,Female,High School,Married,35,No
+310000.0,Female,Graduate School,Never Married,28,No
+70000.0,Female,University,Never Married,38,No
+250000.0,Male,Graduate School,Never Married,31,No
+210000.0,Male,High School,Married,29,No
+50000.0,Male,University,Never Married,31,No
+670000.0,Male,Graduate School,Never Married,29,No
+130000.0,Male,Graduate School,Never Married,26,No
+110000.0,Male,Graduate School,Married,50,No
+210000.0,Female,High School,Never Married,46,Yes
+30000.0,Female,University,Never Married,24,Yes
+260000.0,Female,University,Married,46,No
+150000.0,Female,High School,Never Married,28,No
+20000.0,Female,University,Married,35,Yes
+120000.0,Female,University,Married,47,No
+80000.0,Male,University,Married,54,Yes
+30000.0,Female,University,Never Married,33,No
+110000.0,Male,University,Never Married,29,No
+50000.0,Female,High School,Married,44,No
+90000.0,Female,University,Married,24,No
+110000.0,Male,Graduate School,Never Married,33,No
+50000.0,Male,High School,Married,54,No
+150000.0,Female,University,Never Married,37,Yes
+120000.0,Female,University,Married,34,No
+200000.0,Female,University,Never Married,40,Yes
+20000.0,Male,University,Never Married,30,Yes
+50000.0,Male,University,Never Married,26,No
+200000.0,Female,University,Married,41,No
+100000.0,Female,University,Never Married,29,No
+500000.0,Female,Graduate School,Never Married,35,No
+50000.0,Female,University,Never Married,23,Yes
+230000.0,Female,University,Married,34,Yes
+200000.0,Female,University,Never Married,34,No
+270000.0,Male,Graduate School,Married,44,No
+50000.0,Female,University,Married,36,No
+20000.0,Male,University,Never Married,28,No
+60000.0,Female,University,Never Married,31,No
+50000.0,Male,University,Never Married,31,No
+50000.0,Male,University,Married,41,No
+130000.0,Female,High School,Married,44,No
+230000.0,Female,High School,Never Married,47,No
+30000.0,Female,Graduate School,Never Married,25,No
+200000.0,Female,Graduate School,Married,39,No
+100000.0,Female,University,Married,35,Yes
+240000.0,Male,University,Married,32,Yes
+70000.0,Female,Graduate School,Never Married,31,Yes
+360000.0,Male,Graduate School,Never Married,33,No
+140000.0,Female,Graduate School,Never Married,30,No
+50000.0,Male,University,Married,52,No
+210000.0,Female,University,Married,36,No
+280000.0,Male,Graduate School,Never Married,30,No
+180000.0,Female,University,Never Married,42,Yes
+150000.0,Female,Graduate School,Never Married,30,No
+20000.0,Male,High School,Married,47,No
+350000.0,Female,University,Married,29,No
+130000.0,Female,Graduate School,Never Married,23,No
+340000.0,Female,University,Married,48,No
+80000.0,Male,University,Never Married,26,No
+210000.0,Female,University,Married,39,No
+20000.0,Male,University,Never Married,24,No
+140000.0,Female,University,Never Married,25,No
+200000.0,Male,Graduate School,Never Married,52,No
+50000.0,Female,High School,Married,59,No
+80000.0,Female,Graduate School,Never Married,23,No
+30000.0,Female,High School,Never Married,48,No
+140000.0,Female,Graduate School,Never Married,28,Yes
+80000.0,Male,High School,Married,62,No
+220000.0,Female,High School,Married,38,No
+180000.0,Female,Graduate School,Never Married,32,No
+140000.0,Female,University,Married,29,Yes
+180000.0,Male,University,Never Married,25,Yes
+50000.0,Female,University,Never Married,35,No
+50000.0,Female,University,Never Married,27,No
+50000.0,Male,University,Never Married,38,No
+50000.0,Male,University,Never Married,24,No
+390000.0,Female,Graduate School,Never Married,27,No
+90000.0,Female,University,Married,55,Yes
+200000.0,Female,Graduate School,Never Married,29,No
+460000.0,Male,Graduate School,Never Married,29,No
+20000.0,Male,University,Married,30,Yes
+480000.0,Female,University,Married,38,No
+180000.0,Female,Graduate School,Never Married,24,No
+270000.0,Female,University,Never Married,34,Yes
+200000.0,Male,Graduate School,Married,37,No
+100000.0,Female,High School,Married,66,No
+80000.0,Female,University,Married,45,No
+130000.0,Male,University,Married,44,No
+340000.0,Female,High School,Never Married,44,Yes
+120000.0,Female,High School,Married,40,No
+120000.0,Male,Graduate School,Never Married,29,No
+300000.0,Female,Graduate School,Never Married,48,No
+210000.0,Female,University,Married,50,No
+210000.0,Female,University,Married,29,Yes
+70000.0,Female,High School,Married,49,Yes
+200000.0,Male,University,Married,33,No
+230000.0,Female,University,Married,51,Yes
+20000.0,Male,High School,Married,23,Yes
+210000.0,Female,Graduate School,Married,37,No
+160000.0,Female,High School,Never Married,26,No
+290000.0,Female,Graduate School,Married,30,Yes
+80000.0,Female,High School,Married,26,No
+230000.0,Male,Graduate School,Never Married,32,No
+340000.0,Female,Graduate School,Married,30,No
+50000.0,Female,Graduate School,Never Married,22,No
+80000.0,Male,University,Never Married,38,No
+50000.0,Female,University,Never Married,24,No
+30000.0,Female,Graduate School,Never Married,24,No
+150000.0,Female,University,Married,42,Yes
+240000.0,Female,High School,Married,41,No
+500000.0,Female,University,Married,50,No
+90000.0,Female,University,Married,23,Yes
+50000.0,Male,High School,Never Married,46,No
+50000.0,Female,University,Never Married,22,Yes
+680000.0,Male,Graduate School,Never Married,37,No
+50000.0,Male,Graduate School,Married,47,No
+100000.0,Female,University,Married,40,No
+280000.0,Female,Graduate School,Never Married,30,No
+30000.0,Male,University,Never Married,54,Yes
+50000.0,Male,University,Never Married,27,Yes
+60000.0,Male,Graduate School,Married,33,No
+120000.0,Male,University,Married,57,Yes
+80000.0,Female,University,Married,35,No
+70000.0,Female,High School,Married,32,No
+100000.0,Female,High School,Married,50,Yes
+10000.0,Male,High School,Never Married,35,No
+90000.0,Male,Graduate School,Never Married,26,No
+170000.0,Male,Graduate School,Married,39,Yes
+180000.0,Female,High School,Never Married,42,No
+350000.0,Female,Graduate School,Married,52,Yes
+270000.0,Male,University,Never Married,35,No
+20000.0,Female,Graduate School,Never Married,22,No
+100000.0,Male,University,Never Married,30,No
+290000.0,Male,Graduate School,Married,46,No
+70000.0,Male,High School,Never Married,28,No
+180000.0,Female,Graduate School,Never Married,28,No
+210000.0,Male,Graduate School,Never Married,33,No
+50000.0,Male,Graduate School,Never Married,24,No
+50000.0,Male,Graduate School,Never Married,37,No
+380000.0,Male,University,Married,50,Yes
+50000.0,Male,University,Married,44,No
+150000.0,Female,High School,Married,43,Yes
+220000.0,Male,University,Never Married,29,No
+80000.0,Female,Others,Never Married,27,No
+220000.0,Female,University,Married,32,No
+70000.0,Female,University,Never Married,34,No
+120000.0,Male,University,Never Married,37,Yes
+180000.0,Female,University,Never Married,32,No
+50000.0,Female,High School,Married,57,No
+10000.0,Female,University,Others,46,No
+370000.0,Female,Graduate School,Married,53,No
+20000.0,Female,Graduate School,Never Married,26,No
+150000.0,Male,University,Married,34,No
+20000.0,Male,Graduate School,Never Married,26,Yes
+50000.0,Male,High School,Never Married,26,No
+170000.0,Male,University,Never Married,31,No
+200000.0,Female,Graduate School,Never Married,31,No
+140000.0,Female,Others,Never Married,36,No
+440000.0,Female,University,Never Married,26,No
+500000.0,Male,University,Married,43,No
+230000.0,Female,University,Married,29,No
+20000.0,Female,High School,Married,48,Yes
+210000.0,Female,University,Never Married,24,No
+20000.0,Female,Graduate School,Never Married,23,No
+20000.0,Female,High School,Married,53,No
+200000.0,Female,University,Married,34,No
+250000.0,Female,University,Never Married,36,Yes
+300000.0,Male,University,Never Married,41,No
+320000.0,Female,Graduate School,Never Married,30,No
+50000.0,Male,University,Never Married,29,No
+200000.0,Female,University,Married,34,No
+80000.0,Female,Graduate School,Never Married,29,Yes
+70000.0,Male,University,Married,37,Yes
+60000.0,Male,High School,Never Married,36,No
+10000.0,Female,High School,Never Married,22,Yes
+50000.0,Female,High School,Never Married,30,No
+140000.0,Male,University,Never Married,26,Yes
+30000.0,Male,University,Never Married,25,No
+190000.0,Male,University,Married,49,No
+70000.0,Female,Graduate School,Never Married,23,No
+330000.0,Female,University,Married,28,No
+110000.0,Female,University,Never Married,24,No
+270000.0,Male,High School,Married,47,No
+160000.0,Male,University,Married,31,Yes
+20000.0,Male,University,Never Married,24,No
+320000.0,Male,University,Never Married,32,No
+430000.0,Male,Graduate School,Never Married,31,No
+50000.0,Female,Graduate School,Married,37,No
+80000.0,Male,High School,Married,45,No
+250000.0,Female,Graduate School,Married,43,No
+100000.0,Female,Graduate School,Married,35,No
+360000.0,Female,Graduate School,Married,42,No
+140000.0,Male,Graduate School,Never Married,36,No
+110000.0,Male,University,Married,51,No
+170000.0,Male,High School,Married,48,No
+170000.0,Male,University,Married,48,No
+180000.0,Female,University,Never Married,25,No
+140000.0,Male,University,Married,41,No
+20000.0,Female,University,Married,49,No
+50000.0,Female,University,Never Married,28,No
+60000.0,Female,High School,Never Married,32,No
+70000.0,Female,University,Never Married,26,Yes
+290000.0,Female,Graduate School,Never Married,31,No
+200000.0,Female,High School,Never Married,49,No
+50000.0,Female,Graduate School,Never Married,22,Yes
+20000.0,Female,University,Never Married,26,No
+200000.0,Male,Graduate School,Married,38,Yes
+120000.0,Female,Graduate School,Never Married,35,No
+220000.0,Female,University,Married,49,No
+630000.0,Male,Graduate School,Never Married,40,No
+300000.0,Female,Graduate School,Never Married,34,No
+10000.0,Female,University,Never Married,49,Yes
+280000.0,Female,Graduate School,Married,39,Yes
+130000.0,Male,Graduate School,Never Married,30,No
+30000.0,Female,High School,Married,28,No
+50000.0,Female,University,Married,27,No
+70000.0,Female,High School,Married,38,No
+80000.0,Male,University,Never Married,29,No
+20000.0,Female,University,Married,22,Yes
+390000.0,Male,Graduate School,Married,41,No
+470000.0,Female,University,Never Married,32,No
+260000.0,Female,University,Married,37,Yes
+150000.0,Female,Graduate School,Never Married,25,No
+120000.0,Male,Graduate School,Married,46,No
+20000.0,Female,University,Married,47,No
+260000.0,Female,Others,Never Married,42,No
+50000.0,Male,High School,Never Married,22,Yes
+180000.0,Female,University,Never Married,27,No
+360000.0,Male,University,Married,44,No
+180000.0,Female,University,Never Married,30,No
+270000.0,Female,Graduate School,Married,42,No
+70000.0,Male,Graduate School,Never Married,28,No
+50000.0,Male,University,Never Married,24,No
+50000.0,Female,University,Married,54,No
+350000.0,Male,University,Married,37,No
+200000.0,Male,Graduate School,Married,58,No
+80000.0,Male,High School,Never Married,26,No
+60000.0,Female,University,Married,31,No
+30000.0,Male,Graduate School,Married,52,No
+110000.0,Female,Graduate School,Never Married,36,No
+300000.0,Female,Graduate School,Never Married,27,No
+50000.0,Female,High School,Married,22,No
+500000.0,Male,Graduate School,Never Married,39,No
+360000.0,Male,Graduate School,Never Married,36,No
+20000.0,Female,University,Married,39,No
+220000.0,Male,Graduate School,Married,39,No
+20000.0,Female,University,Never Married,22,No
+60000.0,Male,University,Married,37,Yes
+170000.0,Female,Graduate School,Never Married,30,No
+200000.0,Female,University,Married,26,No
+20000.0,Female,Graduate School,Never Married,23,No
+180000.0,Female,University,Never Married,24,Yes
+360000.0,Female,University,Married,35,No
+20000.0,Male,High School,Married,51,No
+50000.0,Female,Graduate School,Never Married,23,No
+100000.0,Female,University,Married,25,No
+30000.0,Male,University,Married,36,No
+70000.0,Female,University,Married,44,Yes
+470000.0,Male,Graduate School,Never Married,33,No
+300000.0,Female,Graduate School,Married,45,Yes
+150000.0,Female,University,Married,41,No
+220000.0,Female,University,Never Married,25,Yes
+450000.0,Male,High School,Married,58,No
+30000.0,Male,University,Married,38,No
+240000.0,Male,University,Married,30,No
+420000.0,Female,University,Never Married,25,No
+60000.0,Female,Graduate School,Never Married,25,No
+30000.0,Female,High School,Never Married,24,No
+80000.0,Female,Graduate School,Never Married,29,No
+50000.0,Male,University,Never Married,37,No
+200000.0,Male,Graduate School,Never Married,31,No
+230000.0,Female,University,Never Married,28,No
+130000.0,Female,University,Never Married,24,No
+90000.0,Female,Graduate School,Never Married,33,No
+120000.0,Male,Graduate School,Never Married,27,No
+20000.0,Female,University,Never Married,32,No
+210000.0,Female,Graduate School,Married,37,Yes
+80000.0,Female,University,Never Married,44,No
+50000.0,Female,Graduate School,Married,29,No
+70000.0,Female,University,Married,42,Yes
+230000.0,Male,University,Never Married,32,Yes
+20000.0,Male,University,Never Married,52,No
+30000.0,Male,University,Never Married,44,No
+100000.0,Male,Graduate School,Never Married,31,Yes
+80000.0,Female,Graduate School,Never Married,29,Yes
+210000.0,Male,University,Never Married,33,No
+50000.0,Male,University,Never Married,54,No
+130000.0,Female,University,Never Married,23,No
+70000.0,Female,Graduate School,Never Married,24,No
+210000.0,Female,Graduate School,Married,33,No
+100000.0,Male,High School,Married,44,Yes
+200000.0,Male,High School,Others,51,No
+40000.0,Male,Graduate School,Never Married,24,Yes
+80000.0,Female,University,Never Married,25,No
+210000.0,Female,Graduate School,Married,37,Yes
+20000.0,Female,University,Never Married,23,No
+10000.0,Male,High School,Never Married,34,No
+60000.0,Female,High School,Married,50,Yes
+40000.0,Female,University,Married,25,No
+290000.0,Female,Graduate School,Never Married,33,Yes
+20000.0,Male,University,Never Married,25,No
+30000.0,Male,University,Never Married,26,No
+20000.0,Male,University,Married,32,No
+50000.0,Female,High School,Others,43,No
+500000.0,Male,University,Married,42,Yes
+10000.0,Male,University,Never Married,26,No
+50000.0,Female,University,Married,37,Yes
+120000.0,Male,Graduate School,Never Married,36,No
+200000.0,Female,Graduate School,Never Married,27,No
+300000.0,Female,University,Married,50,No
+90000.0,Female,University,Never Married,24,No
+90000.0,Male,University,Married,27,No
+180000.0,Female,University,Married,39,No
+100000.0,Male,Graduate School,Married,45,No
+360000.0,Male,Graduate School,Married,36,No
+230000.0,Male,University,Never Married,39,No
+110000.0,Female,High School,Never Married,29,Yes
+210000.0,Male,University,Never Married,37,No
+200000.0,Male,University,Never Married,26,No
+50000.0,Male,University,Never Married,44,No
+280000.0,Male,Graduate School,Never Married,31,No
+500000.0,Male,University,Married,40,No
+340000.0,Female,University,Married,36,No
+360000.0,Male,Graduate School,Never Married,32,No
+70000.0,Female,Graduate School,Never Married,22,No
+20000.0,Female,University,Others,44,Yes
+230000.0,Male,Graduate School,Never Married,32,No
+60000.0,Male,University,Married,41,No
+50000.0,Male,Graduate School,Never Married,28,Yes
+50000.0,Female,Graduate School,Never Married,29,Yes
+130000.0,Female,Others,Never Married,28,No
+160000.0,Male,High School,Never Married,52,No
+60000.0,Female,High School,Never Married,48,No
+160000.0,Male,University,Never Married,43,No
+180000.0,Female,Graduate School,Never Married,25,No
+170000.0,Male,University,Married,36,No
+360000.0,Female,University,Never Married,35,Yes
+130000.0,Female,University,Married,34,No
+180000.0,Female,University,Never Married,48,No
+20000.0,Male,Graduate School,Never Married,27,No
+230000.0,Female,University,Married,43,No
+50000.0,Male,High School,Married,54,No
+310000.0,Female,University,Married,39,No
+350000.0,Male,Graduate School,Married,70,No
+50000.0,Female,Graduate School,Never Married,24,No
+200000.0,Female,University,Married,30,No
+480000.0,Male,High School,Never Married,53,No
+180000.0,Female,Graduate School,Married,27,Yes
+200000.0,Female,University,Never Married,33,No
+20000.0,Male,High School,Married,34,No
+50000.0,Male,University,Never Married,48,No
+210000.0,Female,High School,Never Married,33,Yes
+20000.0,Female,University,Never Married,24,No
+50000.0,Female,University,Never Married,25,No
+190000.0,Male,High School,Married,49,Yes
+290000.0,Female,Graduate School,Never Married,27,No
+420000.0,Male,University,Married,39,No
+340000.0,Female,University,Never Married,36,No
+60000.0,Male,University,Never Married,40,No
+90000.0,Female,Graduate School,Never Married,27,No
+30000.0,Female,Graduate School,Never Married,27,Yes
+20000.0,Male,University,Never Married,35,No
+90000.0,Female,University,Married,25,Yes
+120000.0,Male,Graduate School,Never Married,27,No
+360000.0,Female,University,Married,50,No
+320000.0,Female,Graduate School,Married,34,No
+20000.0,Male,University,Never Married,25,No
+230000.0,Female,Graduate School,Never Married,29,No
+50000.0,Male,High School,Married,44,No
+50000.0,Male,High School,Married,48,No
+40000.0,Female,High School,Never Married,24,No
+120000.0,Female,High School,Married,27,No
+130000.0,Female,University,Never Married,25,Yes
+110000.0,Female,High School,Never Married,28,No
+20000.0,Male,University,Never Married,22,Yes
+120000.0,Female,High School,Married,30,No
+240000.0,Female,University,Married,44,Yes
+50000.0,Female,University,Never Married,23,No
+500000.0,Female,Graduate School,Never Married,42,Yes
+110000.0,Female,University,Married,33,No
+170000.0,Male,University,Married,48,Yes
+230000.0,Female,University,Married,29,No
+20000.0,Female,High School,Others,47,No
+110000.0,Male,Graduate School,Never Married,28,No
+50000.0,Male,Graduate School,Never Married,37,No
+310000.0,Male,Graduate School,Married,50,No
+50000.0,Female,High School,Married,31,Yes
+240000.0,Female,High School,Married,38,Yes
+50000.0,Female,University,Married,48,No
+140000.0,Male,University,Never Married,44,No
+30000.0,Female,High School,Married,56,No
+300000.0,Female,Graduate School,Married,30,Yes
+50000.0,Male,Graduate School,Never Married,29,No
+280000.0,Female,University,Married,37,No
+120000.0,Female,University,Never Married,23,No
+30000.0,Female,Graduate School,Married,27,No
+30000.0,Female,University,Never Married,23,Yes
+180000.0,Male,High School,Married,45,No
+150000.0,Male,University,Married,33,No
+110000.0,Female,University,Married,40,No
+50000.0,Male,Graduate School,Never Married,24,Yes
+230000.0,Female,High School,Married,43,No
+230000.0,Female,University,Never Married,25,No
+50000.0,Male,High School,Never Married,36,No
+210000.0,Female,Graduate School,Married,36,No
+120000.0,Female,University,Married,38,No
+240000.0,Female,University,Married,42,No
+20000.0,Male,High School,Others,47,No
+50000.0,Female,High School,Never Married,40,No
+50000.0,Female,Graduate School,Never Married,70,No
+50000.0,Female,University,Married,32,No
+100000.0,Male,High School,Never Married,52,No
+550000.0,Male,Graduate School,Never Married,31,No
+450000.0,Female,University,Never Married,36,No
+80000.0,Female,University,Married,50,No
+50000.0,Female,High School,Married,48,No
+50000.0,Female,University,Never Married,33,No
+180000.0,Male,University,Married,44,No
+480000.0,Female,University,Married,35,No
+110000.0,Female,Graduate School,Never Married,29,No
+240000.0,Male,Graduate School,Never Married,30,No
+50000.0,Male,Graduate School,Never Married,33,Yes
+120000.0,Male,University,Never Married,27,No
+100000.0,Female,High School,Never Married,53,No
+160000.0,Male,Graduate School,Married,51,Yes
+270000.0,Female,Graduate School,Married,37,Yes
+390000.0,Female,University,Never Married,42,No
+210000.0,Female,University,Married,43,No
+30000.0,Female,University,Never Married,23,No
+300000.0,Female,High School,Married,30,No
+190000.0,Female,High School,Married,38,No
+130000.0,Female,Graduate School,Married,35,Yes
+360000.0,Male,University,Married,44,No
+190000.0,Female,University,Never Married,25,No
+90000.0,Female,University,Never Married,33,Yes
+30000.0,Female,Graduate School,Never Married,26,No
+240000.0,Male,Graduate School,Never Married,29,No
+40000.0,Female,Graduate School,Never Married,26,No
+170000.0,Male,University,Never Married,36,No
+180000.0,Male,Graduate School,Never Married,37,No
+20000.0,Male,High School,Married,63,Yes
+150000.0,Female,High School,Married,48,No
+50000.0,Female,University,Married,47,Yes
+140000.0,Female,High School,Married,31,No
+50000.0,Male,High School,Never Married,31,No
+200000.0,Male,Graduate School,Never Married,34,No
+100000.0,Female,Graduate School,Married,43,No
+250000.0,Female,Graduate School,Never Married,32,No
+170000.0,Female,University,Married,50,No
+80000.0,Male,High School,Never Married,29,No
+50000.0,Male,University,Married,49,No
+30000.0,Female,High School,Never Married,40,No
+70000.0,Female,Graduate School,Never Married,34,Yes
+30000.0,Female,High School,Married,47,No
+200000.0,Male,Graduate School,Married,34,No
+20000.0,Male,University,Never Married,44,Yes
+50000.0,Male,High School,Married,72,Yes
+50000.0,Male,University,Married,48,Yes
+50000.0,Female,Graduate School,Never Married,27,Yes
+220000.0,Male,University,Married,44,No
+50000.0,Male,Graduate School,Married,40,No
+500000.0,Female,Graduate School,Married,45,No
+170000.0,Male,Graduate School,Never Married,26,No
+50000.0,Male,University,Never Married,30,No
+150000.0,Female,Graduate School,Never Married,29,Yes
+50000.0,Male,Graduate School,Never Married,28,No
+20000.0,Female,High School,Never Married,22,No
+50000.0,Female,High School,Married,55,No
+30000.0,Female,University,Married,39,Yes
+280000.0,Male,Graduate School,Married,40,No
+90000.0,Female,University,Married,36,No
+200000.0,Male,University,Married,42,Yes
+20000.0,Male,High School,Never Married,40,No
+50000.0,Male,University,Married,51,No
+290000.0,Male,High School,Never Married,32,No
+440000.0,Male,Graduate School,Married,37,No
+50000.0,Male,University,Never Married,49,Yes
+300000.0,Male,Graduate School,Never Married,31,No
+290000.0,Female,Graduate School,Married,50,No
+390000.0,Male,University,Married,40,No
+50000.0,Female,University,Never Married,24,No
+150000.0,Female,University,Never Married,29,No
+50000.0,Male,Graduate School,Never Married,24,No
+120000.0,Female,University,Never Married,30,No
+180000.0,Female,University,Married,28,No
+20000.0,Male,Graduate School,Never Married,22,No
+20000.0,Male,University,Never Married,23,No
+290000.0,Female,Graduate School,Never Married,24,No
+190000.0,Female,University,Never Married,53,No
+80000.0,Female,University,Never Married,25,Yes
+250000.0,Male,High School,Married,47,No
+20000.0,Male,University,Married,35,Yes
+180000.0,Female,High School,Married,45,No
+80000.0,Male,Graduate School,Never Married,25,No
+300000.0,Male,Graduate School,Never Married,31,No
+50000.0,Female,High School,Married,51,No
+70000.0,Female,Graduate School,Married,40,No
+150000.0,Female,Graduate School,Never Married,30,Yes
+320000.0,Female,Graduate School,Never Married,29,No
+60000.0,Female,Graduate School,Never Married,24,No
+20000.0,Male,High School,Never Married,32,Yes
+230000.0,Male,Graduate School,Never Married,35,No
+310000.0,Female,University,Married,29,No
+230000.0,Female,Graduate School,Never Married,36,No
+100000.0,Female,Graduate School,Never Married,30,Yes
+310000.0,Male,University,Married,64,No
+180000.0,Male,High School,Married,33,Yes
+390000.0,Female,Graduate School,Married,38,No
+20000.0,Female,Graduate School,Never Married,26,No
+50000.0,Female,University,Married,26,No
+140000.0,Male,Graduate School,Never Married,29,No
+170000.0,Male,Graduate School,Never Married,37,Yes
+50000.0,Female,High School,Married,40,Yes
+250000.0,Female,Graduate School,Never Married,36,No
+90000.0,Male,Graduate School,Never Married,27,No
+90000.0,Male,University,Married,44,Yes
+160000.0,Female,Graduate School,Never Married,27,No
+360000.0,Male,University,Never Married,29,No
+330000.0,Female,Graduate School,Never Married,26,No
+50000.0,Female,High School,Married,54,No
+60000.0,Female,University,Married,42,Yes
+10000.0,Female,High School,Never Married,42,No
+70000.0,Male,University,Married,41,No
+250000.0,Female,University,Never Married,33,Yes
+130000.0,Female,High School,Married,33,No
+130000.0,Male,Graduate School,Never Married,27,No
+80000.0,Female,University,Never Married,29,Yes
+380000.0,Male,Graduate School,Never Married,41,No
+20000.0,Female,University,Never Married,23,Yes
+20000.0,Male,University,Never Married,25,No
+140000.0,Male,Graduate School,Married,54,Yes
+180000.0,Male,Graduate School,Never Married,33,No
+90000.0,Male,Graduate School,Never Married,32,No
+160000.0,Male,University,Never Married,29,No
+50000.0,Female,Graduate School,Never Married,22,No
+250000.0,Female,University,Married,31,No
+120000.0,Female,University,Never Married,24,No
+120000.0,Female,Graduate School,Never Married,27,No
+260000.0,Female,University,Married,40,No
+10000.0,Male,University,Never Married,38,Yes
+60000.0,Female,University,Married,29,No
+50000.0,Male,University,Never Married,27,No
+130000.0,Male,High School,Married,34,No
+130000.0,Male,Graduate School,Never Married,34,No
+80000.0,Female,University,Married,36,No
+290000.0,Female,Graduate School,Married,33,No
+130000.0,Female,Graduate School,Never Married,26,No
+30000.0,Female,Graduate School,Never Married,27,Yes
+20000.0,Female,Graduate School,Never Married,24,Yes
+70000.0,Female,University,Never Married,26,No
+200000.0,Male,Graduate School,Never Married,27,No
+50000.0,Female,University,Married,46,Yes
+360000.0,Male,University,Married,56,No
+50000.0,Female,High School,Married,56,No
+50000.0,Male,University,Never Married,25,Yes
+80000.0,Female,University,Married,37,Yes
+40000.0,Male,High School,Married,43,Yes
+50000.0,Male,University,Never Married,26,No
+80000.0,Male,High School,Married,48,No
+30000.0,Female,High School,Married,48,No
+160000.0,Male,University,Married,28,No
+400000.0,Male,University,Married,34,No
+220000.0,Male,University,Married,60,Yes
+40000.0,Female,University,Married,25,Yes
+280000.0,Female,University,Never Married,27,No
+110000.0,Male,University,Never Married,26,No
+180000.0,Female,Graduate School,Married,44,No
+200000.0,Female,Graduate School,Never Married,26,No
+390000.0,Female,Graduate School,Never Married,33,No
+400000.0,Female,Graduate School,Never Married,29,No
+120000.0,Female,High School,Never Married,37,Yes
+280000.0,Male,University,Married,33,No
+230000.0,Female,Graduate School,Never Married,27,No
+280000.0,Female,Graduate School,Married,36,No
+130000.0,Male,High School,Never Married,28,No
+160000.0,Female,University,Married,35,Yes
+120000.0,Male,High School,Married,47,No
+300000.0,Female,High School,Married,31,No
+450000.0,Male,Graduate School,Never Married,31,Yes
+100000.0,Female,University,Married,58,No
+150000.0,Female,University,Never Married,27,No
+140000.0,Male,University,Never Married,35,No
+500000.0,Female,Graduate School,Never Married,46,No
+20000.0,Male,University,Never Married,36,No
+50000.0,Male,University,Never Married,53,No
+100000.0,Male,University,Never Married,39,Yes
+200000.0,Female,University,Never Married,27,No
+150000.0,Female,University,Never Married,37,No
+80000.0,Male,Graduate School,Never Married,23,No
+160000.0,Male,Graduate School,Married,40,No
+180000.0,Female,University,Married,44,No
+270000.0,Female,Graduate School,Married,32,No
+180000.0,Female,Graduate School,Never Married,41,No
+120000.0,Male,Graduate School,Married,54,Yes
+110000.0,Female,Graduate School,Never Married,29,No
+200000.0,Female,High School,Never Married,30,No
+70000.0,Female,High School,Married,23,No
+360000.0,Female,University,Never Married,30,No
+260000.0,Female,University,Married,35,Yes
+50000.0,Male,High School,Married,32,No
+380000.0,Female,University,Married,39,No
+20000.0,Male,High School,Married,38,Yes
+460000.0,Male,Graduate School,Never Married,32,No
+60000.0,Male,High School,Never Married,24,No
+200000.0,Female,Graduate School,Married,35,No
+50000.0,Female,University,Never Married,37,Yes
+20000.0,Female,Graduate School,Never Married,22,No
+290000.0,Female,University,Married,40,Yes
+110000.0,Female,University,Never Married,36,No
+160000.0,Female,High School,Married,51,Yes
+70000.0,Female,University,Married,31,No
+80000.0,Female,University,Never Married,40,No
+20000.0,Male,Graduate School,Never Married,41,Yes
+50000.0,Male,University,Others,53,No
+30000.0,Male,University,Never Married,26,Yes
+150000.0,Male,Graduate School,Never Married,30,No
+310000.0,Female,Graduate School,Never Married,30,No
+150000.0,Female,Graduate School,Never Married,33,No
+200000.0,Female,Graduate School,Never Married,27,No
+150000.0,Male,High School,Never Married,45,No
+540000.0,Female,Graduate School,Never Married,34,No
+280000.0,Male,University,Never Married,30,No
+230000.0,Male,University,Never Married,32,No
+50000.0,Male,Graduate School,Married,39,No
+10000.0,Male,University,Never Married,35,Yes
+500000.0,Male,Graduate School,Married,46,No
+50000.0,Female,University,Never Married,24,No
+420000.0,Female,University,Never Married,35,No
+50000.0,Female,University,Never Married,23,No
+50000.0,Male,University,Married,46,No
+160000.0,Female,High School,Married,41,Yes
+40000.0,Female,University,Married,23,Yes
+100000.0,Female,University,Married,31,No
+50000.0,Female,Graduate School,Never Married,26,No
+130000.0,Female,High School,Never Married,32,No
+30000.0,Female,University,Never Married,22,No
+140000.0,Male,University,Married,34,Yes
+210000.0,Female,University,Married,32,No
+50000.0,Male,University,Married,38,No
+310000.0,Male,University,Married,29,No
+300000.0,Female,Graduate School,Married,31,No
+30000.0,Female,University,Never Married,47,Yes
+90000.0,Female,High School,Married,40,No
+150000.0,Female,University,Married,34,Yes
+90000.0,Male,Graduate School,Never Married,25,No
+80000.0,Female,High School,Never Married,65,No
+100000.0,Female,Graduate School,Never Married,28,Yes
+210000.0,Male,Graduate School,Never Married,31,No
+170000.0,Female,University,Married,41,No
+90000.0,Female,University,Married,32,No
+50000.0,Female,Graduate School,Never Married,26,No
+150000.0,Male,Graduate School,Married,30,No
+100000.0,Male,University,Never Married,30,Yes
+250000.0,Male,University,Never Married,31,No
+500000.0,Female,University,Married,42,No
+260000.0,Male,University,Never Married,32,No
+30000.0,Female,University,Never Married,22,No
+110000.0,Female,University,Never Married,42,No
+500000.0,Male,Graduate School,Married,39,No
+310000.0,Female,Graduate School,Never Married,32,No
+580000.0,Male,University,Married,37,No
+340000.0,Female,Graduate School,Married,36,No
+360000.0,Female,University,Married,42,No
+290000.0,Female,Graduate School,Never Married,29,No
+30000.0,Male,University,Never Married,36,No
+80000.0,Female,Graduate School,Never Married,29,No
+360000.0,Male,Graduate School,Married,38,Yes
+170000.0,Female,Graduate School,Never Married,31,No
+100000.0,Male,University,Married,42,No
+450000.0,Male,University,Never Married,37,No
+260000.0,Female,Graduate School,Never Married,33,No
+240000.0,Female,Graduate School,Never Married,29,No
+240000.0,Female,University,Never Married,26,No
+220000.0,Female,University,Never Married,35,No
+100000.0,Female,Graduate School,Married,51,Yes
+20000.0,Male,University,Never Married,33,Yes
+360000.0,Female,Graduate School,Never Married,30,No
+220000.0,Male,Graduate School,Never Married,28,Yes
+470000.0,Female,University,Never Married,26,No
+70000.0,Female,University,Never Married,22,No
+120000.0,Female,Graduate School,Never Married,26,No
+50000.0,Male,University,Never Married,35,No
+470000.0,Male,University,Married,49,No
+130000.0,Male,University,Married,49,No
+20000.0,Female,Graduate School,Never Married,24,Yes
+20000.0,Male,Graduate School,Married,39,No
+460000.0,Female,University,Never Married,35,No
+20000.0,Female,Graduate School,Never Married,24,Yes
+360000.0,Female,University,Never Married,27,Yes
+290000.0,Male,Graduate School,Married,40,No
+90000.0,Male,Graduate School,Married,30,No
+180000.0,Female,Graduate School,Never Married,26,No
+120000.0,Male,Graduate School,Married,45,No
+220000.0,Male,University,Never Married,30,No
+220000.0,Male,Graduate School,Never Married,34,Yes
+320000.0,Female,University,Never Married,31,No
+320000.0,Male,Graduate School,Married,33,No
+90000.0,Male,University,Never Married,39,No
+180000.0,Male,Graduate School,Married,50,No
+90000.0,Female,Graduate School,Never Married,28,No
+100000.0,Male,Graduate School,Married,36,No
+340000.0,Male,University,Married,41,No
+50000.0,Male,Graduate School,Never Married,22,Yes
+240000.0,Female,University,Married,41,No
+10000.0,Male,University,Never Married,41,No
+220000.0,Female,Graduate School,Married,42,Yes
+100000.0,Female,University,Never Married,37,No
+70000.0,Female,High School,Married,57,No
+30000.0,Female,University,Never Married,37,Yes
+130000.0,Female,High School,Never Married,53,No
+140000.0,Female,University,Married,25,No
+20000.0,Male,University,Never Married,32,No
+90000.0,Male,University,Married,29,No
+170000.0,Female,High School,Married,37,No
+70000.0,Male,Graduate School,Never Married,30,Yes
+200000.0,Male,Graduate School,Married,42,No
+20000.0,Male,University,Married,40,Yes
+200000.0,Male,University,Married,41,No
+100000.0,Female,Graduate School,Never Married,27,No
+180000.0,Male,University,Never Married,31,No
+230000.0,Female,High School,Never Married,26,No
+20000.0,Male,High School,Never Married,50,No
+500000.0,Female,Graduate School,Married,35,Yes
+80000.0,Female,High School,Never Married,40,Yes
+230000.0,Male,University,Married,29,No
+230000.0,Female,University,Never Married,24,No
+50000.0,Female,University,Never Married,49,Yes
+50000.0,Male,University,Never Married,35,No
+10000.0,Female,Graduate School,Never Married,25,No
+140000.0,Male,University,Never Married,34,No
+50000.0,Male,University,Never Married,42,Yes
+180000.0,Male,High School,Never Married,28,No
+580000.0,Male,High School,Married,67,No
+20000.0,Male,High School,Never Married,52,No
+180000.0,Female,Graduate School,Never Married,43,No
+60000.0,Female,Graduate School,Never Married,24,No
+40000.0,Female,High School,Married,59,No
+140000.0,Female,University,Married,34,No
+220000.0,Male,University,Married,32,No
