@@ -1,0 +1,41 @@
+###################################################################################################
+GCP deployment commends
+###################################################################################################
+
+# create a resource on GCP, and then excute the following commend in the Cloud Shell (click the button Activate Cloud Shell on the right top conner of GCP webpage)
+
+export PROJECT_ID=demo #Note that here Project ID should coincide with the Project ID of the created GDP resource 
+
+# clone files from git repository
+
+https://github.com/trevorzhen/default.git
+
+# build the docker image and tag it for uploading
+
+docker build -t gcr.io/${PROJECT_ID}/default-st:v1 .
+
+# One can check the available images by running: docker images
+
+# Authenticate to Container Registry
+
+gcloud auth configure-docker
+
+# Push the docker image to Google Container Registry, Container Registry should be enabled via GCP console first
+
+docker push gcr.io/${PROJECT_ID}/insurance-st:v1
+
+# Set Project ID and Compute Engine zone options for the gcloud tool:
+
+gcloud config set project $PROJECT_ID 
+gcloud config set compute/zone europe-central2
+
+# Kubernetes cluster, e.g., autopilot-cluster-1, should be created via GCP console first before running the following command
+gcloud Kubernetes clusters get-credentials "autopilot-cluster-1" 
+
+# Create and deploy application
+kubectl create deployment default --image=gcr.io/${PROJECT_ID}/default-st:v1
+
+# Note that the target-port should be the port specified in Docker file
+kubectl expose deployment default --type=LoadBalancer --port 80 --target-port 8501 
+
+kubectl get service  #EXTERNAL-IP is the IP address for accessing the application
